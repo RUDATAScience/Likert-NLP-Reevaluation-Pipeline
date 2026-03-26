@@ -1,0 +1,5 @@
+numpy
+pandas
+janome
+matplotlib
+seaborn
